@@ -6,12 +6,6 @@ http://www.templatemo.com/tm-414-zoom
 
 */
 
-.site-logo {
-    max-width: 250px; /* Ajuste o tamanho conforme necessário */
-    height: auto; /* Para manter a proporção */
-    margin: 0 auto; /* Centralizar */
-}
-
 body, html { overflow-x:hidden; }
 
 body {
@@ -39,7 +33,7 @@ p {
 }
 
 a {
-	color: #FF6;
+	color: rgb(255, 0, 255);
 }
 
 a:hover {
@@ -204,7 +198,7 @@ img.slide {
 }
 
 .btn-menu {
-    padding: 50px 0;
+    padding: 20px 0;
     text-align: center;
 }
 
@@ -251,6 +245,6 @@ img.slide {
     }
     
     .footer-text {
-        margin-left: 1;  
+        margin-left: 0;  
     }
 }
