@@ -1,0 +1,2 @@
+'<span style="color: green; font-weight: bold;">Servidor está ONLINE</span>',
+                    '<span style="color: red; font-weight: bold;">Servidor está OFFLINE</span>',
