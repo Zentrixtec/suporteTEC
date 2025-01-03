@@ -2,3 +2,7 @@
                     '<span style="color: red; font-weight: bold;">Servidor está OFFLINE</span>',
 
                     '<span style="color: green; font-weight: bold;">Servidor está ONLINE</span>',
+
+
+
+                    "https://www.formilla.com/chat.aspx?guid=76b933eb-0133-4577-9257-4f7cbce69ee8"
